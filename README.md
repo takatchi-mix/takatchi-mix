@@ -20,14 +20,11 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,python,mysql,java,pytorch,github,anaconda,tensorflow,eclipse,idea,discord,gmail,windows,apple,instagram" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,python,mysql,java,pytorch,github,git,anaconda,tensorflow,eclipse,idea,discord,gmail,windows,apple,instagram" /> <br /><br />
 
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
   
-# NOW TRAINING
-
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->

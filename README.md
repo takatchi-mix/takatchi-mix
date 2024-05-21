@@ -22,11 +22,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,python,mysql,java,pytorch,github,git,anaconda,tensorflow,eclipse,idea,discord,gmail,windows,apple,instagram" /> <br /><br />
 
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
   
-
-
 <!-- --------------------------------- :) ---------------------------------- -->
 
 <br><br><br>

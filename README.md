@@ -1,5 +1,34 @@
 # Backend Developer in Japan👋
 
+### 👻 profile 
+<div align="center">
+   <table border=1>
+   <tr>
+     <th>Question</th>
+     <th>Answer</th>
+   </tr>
+   <tr>
+     <td>Name</td>
+     <td>Takatchi</td>
+   </tr>
+   <tr>
+     <td>Birthday</td>
+     <td>1995/2/21</td>
+   </tr>
+   <tr>
+     <td>Birthplace</td>
+     <td>Tokyo in Japan</td>
+   </tr>
+   <tr>
+     <td>Sports</td>
+     <td>Skiing,Track and Field,Basketball</td>
+   </tr>
+ </table>
+ </div>
+
+
+
+
 ### 👨🏻‍💻  About Me
 I work as a back-end developer with a focus on Java, working in financial and core systems. My commitment to providing high quality code meets the requirements of the project and always strives to exceed the client's expectations.
 

@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=takatchi-mix&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Twitter Followers]([https://x.com/Roxas_Clarity])](https://twitter.com/Masa36940064)
+[![My Twitter Followers]([https://x.com/Roxas_Clarity])]
 
 
 # NOW TRAINING

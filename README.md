@@ -5,7 +5,6 @@ I work as a back-end developer with a focus on Java, working in financial and mi
 
 I have a proven track record of delivering innovative solutions. My technical toolkit includes HTML, CSS, Python, SQLServer, Java, Pytorch, Tensorflow
 and I am continually exploring new tools and frameworks to enhance my skills.
-I am looking forward to becoming an engineer who can enrich people's lives with LLM, machine learning, and deep learning, with a focus on AI.
 I am constantly improving myself to become an engineer who can enrich people's lives with LLM, machine learning, and deep learning, with a focus on AI.
 
 

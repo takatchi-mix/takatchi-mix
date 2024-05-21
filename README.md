@@ -1,6 +1,6 @@
 # Backend Developer in Japan👋
-###  29 years old 
-### 
+
+### 👨🏻‍💻  About Me
 I work as a back-end developer with a focus on Java, working in financial and core systems. My commitment to providing high quality code meets the requirements of the project and always strives to exceed the client's expectations.
 
 I have a proven track record of delivering innovative solutions. My technical toolkit includes HTML, CSS, Python, SQLServer, Java, Pytorch, and Tensorflow.

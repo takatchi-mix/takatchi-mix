@@ -1,13 +1,13 @@
 # Backend Developer in Japan👋
 ###  29 years old 
-### I work as a back-end developer, with Java as my primary language, in financial and mission-critical systems. My commitment to providing high quality code meets the requirements of the project and always strives to exceed the client's expectations.
-
+### 
 I work as a back-end developer with a focus on Java, working in financial and mission-critical systems. My commitment to providing high quality code meets the requirements of the project and always strives to exceed the client's expectations.
 
 I have a proven track record of delivering innovative solutions. My technical toolkit includes HTML, CSS, Python, SQLServer, Java, Pytorch, Tensorflow
 and I am continually exploring new tools and frameworks to enhance my skills.
 I am looking forward to becoming an engineer who can enrich people's lives with LLM, machine learning, and deep learning, with a focus on AI.
 I am constantly improving myself to become an engineer who can enrich people's lives with LLM, machine learning, and deep learning, with a focus on AI.
+
 
 #
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=takatchi-mix&show_icons=true&theme=vue-dark)

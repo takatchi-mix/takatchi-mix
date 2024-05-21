@@ -20,7 +20,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,mysql,github,python,java,anaconda,discord,gutlab,eclipse,gmail,idea,pytorch,tensorflow,windows,instagram" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,mysql,github,python,java,anaconda,discord,eclipse,gmail,idea,pytorch,tensorflow,windows,instagram" /> <br /><br />
 
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.

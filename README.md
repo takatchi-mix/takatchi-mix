@@ -8,7 +8,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=takatchi-mix&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Twitter Followers](https://x.com/Roxas_Clarity)](https://twitter.com/Roxas_Clarity)
 
 
 # NOW TRAINING
@@ -21,7 +20,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gutlab,jquery,aws,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,mysql,github,python,sqlserver,discord,gutlab" /> <br /><br />
 
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.

@@ -1,6 +1,6 @@
 # Backend Developer in Japan👋
 ###  29 years old 
-### Feel free to contact me anytime!👍
+### 
 #
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=takatchi-mix&show_icons=true&theme=vue-dark)
 

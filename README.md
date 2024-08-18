@@ -21,7 +21,7 @@
    </tr>
    <tr>
      <td>Sports</td>
-     <td>Skiing,Track and Field,Basketball</td>
+     <td>Skiing,Basketball</td>
    </tr>
  </table>
  </div>

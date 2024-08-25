@@ -9,7 +9,7 @@
    </tr>
    <tr>
      <td>Name</td>
-     <td>takatchi</td>
+     <td>Takahashi Kohei</td>
    </tr>
    <tr>
      <td>Birthday</td>
